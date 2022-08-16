@@ -1,5 +1,5 @@
 *{
-    font-family:Arial ,Helvectia , sans-serial;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:16p;
 
 }
@@ -9,7 +9,7 @@ background-color:blue;
 }
 
 main{
-    background-color: white;
+    background-color: rgb(240, 236, 236);
     width: 500px;
     margin: auto;
     padding: 10px;
